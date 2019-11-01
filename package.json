@@ -29,7 +29,9 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "vue-html/quotes": "double"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
